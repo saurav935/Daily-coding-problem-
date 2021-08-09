@@ -20,6 +20,4 @@ For example, the following tree has 5 unival subtrees:
 * Also named as Count Univalue trees at leetcode
 '''
 
-
-
 # Refer (https://www.dailycodingproblem.com/blog/unival-trees/) for solution
