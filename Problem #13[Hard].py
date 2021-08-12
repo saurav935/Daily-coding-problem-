@@ -37,3 +37,5 @@ class Solution:
                 j += 1
 
         return res if res != 0 else -1
+    
+    
